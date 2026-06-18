@@ -1,0 +1,94 @@
+======================================================================
+ RUNNING SQL ANALYSIS QUERIES
+======================================================================
+ RUNNING SQL ANALYSIS QUERIES
+======================================================================
+
+======================================================================
+ REVENUE BY CATEGORY
+======================================================================
+
+     category  total_orders  total_revenue  avg_item_value
+  Electronics           875     3141425.43         2797.35
+       Sports           781      652549.46          659.81
+Home & Garden           775      558148.71          585.06
+     Clothing           659      152430.49          190.78
+        Books          1100      119535.55           76.38
+
+
+======================================================================
+ TOP 10 CUSTOMERS BY LIFETIME VALUE
+======================================================================
+
+     customer_name     country  total_orders  lifetime_value
+Jennifer Rodriguez       Spain            10         6221.91
+        Jane Lopez         USA            12         5585.58
+   James Rodriguez          UK            10         5261.69
+     Lisa Gonzalez          UK             8         5064.26
+   David Rodriguez      France             8         4984.01
+Patricia Rodriguez     Germany             9         4860.03
+       Sarah Davis       Spain             9         4828.63
+  Patricia Johnson         USA            12         4775.50
+       John Garcia          UK             9         4743.55
+      Jane Johnson Netherlands             9         4733.34
+
+
+======================================================================
+ ORDERS BY STATUS
+======================================================================
+
+order_status  order_count  percentage
+     Shipped          631        31.6
+   Delivered          482        24.1
+  Processing          401        20.1
+     Pending          202        10.1
+   Cancelled          184         9.2
+    Returned          100         5.0
+
+
+======================================================================
+ TOP 10 COUNTRIES BY ORDERS
+======================================================================
+
+    country  total_orders  total_revenue
+      Spain           305      145008.69
+     Canada           291      138021.78
+         UK           266      129543.39
+     France           242      110097.75
+    Germany           232      112019.05
+        USA           231      103537.74
+     Poland           217      103198.19
+Netherlands           216       99490.80
+
+
+======================================================================
+ TOP 10 PRODUCTS BY REVENUE
+======================================================================
+
+                   product_name    category  units_sold  total_revenue
+Professional Smartphones Bundle Electronics          60      264841.40
+    Standard Smartphones Bundle Electronics          57      260792.36
+      Professional Tablets Item Electronics          62      247960.04
+    Standard Smartphones Bundle Electronics          59      245794.24
+          Standard Tablets Item Electronics          62      231699.50
+       Professional Laptops Kit Electronics          57      214920.48
+       Professional Laptops Set Electronics          66      204732.22
+           Ultra Laptops Bundle Electronics          57      188658.01
+           Premium Laptops Item Electronics          77      176227.87
+           Compact Tablets Item Electronics          59      166321.11
+
+
+======================================================================
+ KEY PERFORMANCE INDICATORS (KPIs)
+======================================================================
+
+ Total Revenue:        $852,171.08
+ Total Orders:         1,816
+ Total Customers:      500
+ Avg Order Value:      $469.26
+ Delivered Orders:     482 (26.5%)
+ Customer Lifetime Value: $1,704.34
+
+======================================================================
+ ANALYSIS COMPLETE!
+======================================================================

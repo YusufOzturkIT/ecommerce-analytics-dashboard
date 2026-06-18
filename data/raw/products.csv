@@ -1,0 +1,101 @@
+product_id,product_name,category,subcategory,unit_price,cost_price,stock_quantity,is_active
+2001,Professional Equipment Set,Sports,Equipment,81.68,52.55,112,True
+2002,Professional Tablets Item,Electronics,Tablets,1730.96,1017.43,431,True
+2003,Premium Kitchen Item,Home & Garden,Kitchen,413.8,246.4,713,True
+2004,Standard Smartphones Bundle,Electronics,Smartphones,810.03,390.59,773,True
+2005,Ultra Tablets Item,Electronics,Tablets,821.88,421.77,747,True
+2006,Deluxe Men Kit,Clothing,Men,34.68,20.3,815,True
+2007,Standard Kitchen Bundle,Home & Garden,Kitchen,181.55,108.33,315,True
+2008,Professional Science Bundle,Books,Science,25.42,15.37,107,True
+2009,Premium Men Bundle,Clothing,Men,70.87,33.89,859,False
+2010,Deluxe Fiction Product,Books,Fiction,29.84,18.14,807,True
+2011,Premium Laptops Item,Electronics,Laptops,1022.5,696.32,344,False
+2012,Professional Kitchen Kit,Home & Garden,Kitchen,38.81,20.39,868,True
+2013,Premium Non-Fiction Bundle,Books,Non-Fiction,48.7,27.49,444,True
+2014,Deluxe Women Device,Clothing,Women,80.82,46.11,456,True
+2015,Premium Decor Item,Home & Garden,Decor,296.44,183.64,317,True
+2016,Ultra Non-Fiction Set,Books,Non-Fiction,15.11,7.18,258,True
+2017,Standard Non-Fiction Set,Books,Non-Fiction,33.22,21.93,175,True
+2018,Smart Non-Fiction Kit,Books,Non-Fiction,32.47,15.31,490,True
+2019,Ultra Furniture Set,Home & Garden,Furniture,346.33,215.41,993,True
+2020,Compact Smartphones Product,Electronics,Smartphones,857.35,440.09,344,True
+2021,Deluxe Apparel Device,Sports,Apparel,276.48,151.78,551,True
+2022,Ultra Smartphones Item,Electronics,Smartphones,1084.43,530.6,768,True
+2023,Compact Decor Bundle,Home & Garden,Decor,67.99,28.29,115,True
+2024,Ultra Fiction Set,Books,Fiction,48.34,31.62,572,True
+2025,Premium Decor Bundle,Home & Garden,Decor,190.35,130.78,90,True
+2026,Professional Kitchen Item,Home & Garden,Kitchen,344.85,187.86,142,True
+2027,Ultra Laptops Bundle,Electronics,Laptops,1239.54,526.79,806,True
+2028,Compact Non-Fiction Bundle,Books,Non-Fiction,13.67,7.94,909,True
+2029,Standard Men Kit,Clothing,Men,96.44,44.73,147,True
+2030,Standard Fiction Device,Books,Fiction,47.85,30.36,193,True
+2031,Deluxe Kids Item,Clothing,Kids,43.62,29.63,410,True
+2032,Premium Science Kit,Books,Science,48.97,34.22,339,True
+2033,Professional Kids Item,Clothing,Kids,36.7,22.79,794,True
+2034,Smart Decor Device,Home & Garden,Decor,282.04,172.54,517,True
+2035,Compact Equipment Item,Sports,Equipment,484.95,294.08,861,True
+2036,Ultra Non-Fiction Item,Books,Non-Fiction,43.48,28.7,993,True
+2037,Premium Men Bundle,Clothing,Men,130.62,68.94,78,True
+2038,Compact Women Set,Clothing,Women,56.71,29.43,555,True
+2039,Deluxe Equipment Item,Sports,Equipment,448.11,198.95,783,True
+2040,Compact Fiction Item,Books,Fiction,30.53,14.35,62,True
+2041,Premium Fiction Product,Books,Fiction,33.25,21.91,459,True
+2042,Standard Smartphones Bundle,Electronics,Smartphones,1820.54,857.48,214,True
+2043,Smart Fiction Bundle,Books,Fiction,46.31,26.75,135,True
+2044,Deluxe Kitchen Bundle,Home & Garden,Kitchen,188.1,115.2,756,True
+2045,Compact Tablets Item,Electronics,Tablets,1222.5,627.63,52,True
+2046,Ultra Furniture Bundle,Home & Garden,Furniture,358.44,170.12,761,True
+2047,Compact Women Product,Clothing,Women,69.63,36.93,980,True
+2048,Smart Laptops Product,Electronics,Laptops,880.52,459.24,892,True
+2049,Premium Women Item,Clothing,Women,98.58,61.35,120,True
+2050,Deluxe Shoes Set,Sports,Shoes,388.25,251.13,770,True
+2051,Compact Equipment Device,Sports,Equipment,377.22,227.96,672,False
+2052,Professional Smartphones Bundle,Electronics,Smartphones,856.26,445.31,192,True
+2053,Professional Science Set,Books,Science,29.11,12.37,857,True
+2054,Standard Equipment Item,Sports,Equipment,273.62,145.27,104,True
+2055,Professional Smartphones Bundle,Electronics,Smartphones,1703.16,1180.92,980,True
+2056,Standard Apparel Kit,Sports,Apparel,286.88,142.52,383,True
+2057,Smart Equipment Product,Sports,Equipment,40.83,27.66,921,True
+2058,Smart Science Device,Books,Science,46.76,22.25,529,True
+2059,Standard Tablets Item,Electronics,Tablets,1543.12,652.17,909,True
+2060,Deluxe Men Bundle,Clothing,Men,49.95,23.23,369,True
+2061,Compact Women Item,Clothing,Women,65.34,45.66,909,True
+2062,Standard Smartphones Bundle,Electronics,Smartphones,1545.39,796.28,705,True
+2063,Standard Apparel Bundle,Sports,Apparel,373.81,252.16,290,True
+2064,Compact Kitchen Device,Home & Garden,Kitchen,480.18,200.41,204,False
+2065,Standard Shoes Kit,Sports,Shoes,209.37,90.45,873,True
+2066,Standard Equipment Bundle,Sports,Equipment,181.12,81.67,204,True
+2067,Compact Shoes Item,Sports,Shoes,330.49,170.69,676,False
+2068,Smart Equipment Device,Sports,Equipment,130.11,62.42,102,True
+2069,Ultra Laptops Kit,Electronics,Laptops,1040.52,497.35,681,False
+2070,Standard Kitchen Kit,Home & Garden,Kitchen,237.56,97.33,955,True
+2071,Ultra Science Device,Books,Science,21.19,11.09,70,True
+2072,Compact Science Item,Books,Science,34.11,16.42,643,True
+2073,Standard Decor Bundle,Home & Garden,Decor,83.93,35.49,60,True
+2074,Professional Non-Fiction Device,Books,Non-Fiction,47.62,25.0,412,True
+2075,Professional Laptops Set,Electronics,Laptops,1371.74,926.96,798,True
+2076,Standard Non-Fiction Item,Books,Non-Fiction,13.31,8.82,14,True
+2077,Deluxe Equipment Bundle,Sports,Equipment,284.76,127.99,475,True
+2078,Smart Kitchen Item,Home & Garden,Kitchen,217.4,137.68,613,False
+2079,Smart Fiction Item,Books,Fiction,29.21,20.32,691,True
+2080,Premium Shoes Item,Sports,Shoes,200.83,125.49,838,True
+2081,Premium Women Item,Clothing,Women,77.16,50.06,543,True
+2082,Standard Fiction Device,Books,Fiction,32.76,13.73,414,True
+2083,Professional Smartphones Kit,Electronics,Smartphones,555.23,244.39,847,True
+2084,Smart Fiction Product,Books,Fiction,10.55,4.46,522,True
+2085,Ultra Kitchen Item,Home & Garden,Kitchen,352.02,197.24,654,True
+2086,Professional Men Kit,Clothing,Men,119.99,80.87,242,True
+2087,Deluxe Non-Fiction Set,Books,Non-Fiction,33.41,20.64,533,False
+2088,Professional Laptops Kit,Electronics,Laptops,1635.62,839.65,355,True
+2089,Standard Fiction Kit,Books,Fiction,19.64,9.06,55,True
+2090,Premium Furniture Item,Home & Garden,Furniture,140.69,67.87,555,True
+2091,Smart Science Bundle,Books,Science,18.29,12.13,954,True
+2092,Compact Non-Fiction Device,Books,Non-Fiction,40.28,16.68,87,True
+2093,Standard Smartphones Item,Electronics,Smartphones,903.01,367.21,739,True
+2094,Deluxe Decor Device,Home & Garden,Decor,259.12,140.67,822,True
+2095,Compact Fiction Kit,Books,Fiction,43.25,21.29,932,True
+2096,Compact Women Item,Clothing,Women,127.97,88.35,82,True
+2097,Compact Smartphones Set,Electronics,Smartphones,632.61,403.32,803,True
+2098,Smart Apparel Kit,Sports,Apparel,303.18,164.93,258,True
+2099,Standard Equipment Device,Sports,Equipment,221.86,140.97,56,True
+2100,Smart Non-Fiction Item,Books,Non-Fiction,35.57,22.82,130,True
