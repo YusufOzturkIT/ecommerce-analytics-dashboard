@@ -60,4 +60,3 @@ pip install -r requirements.txt
 
 ---
 
-*Project Status: IN PROGRESS* 
